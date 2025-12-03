@@ -6,12 +6,6 @@
   "description": "Personal Biome configurations",
   "author": "Charles Gruenais",
   "license": "MIT",
-  "keywords": ["biome", "biome-config", "yungezeit"],
-  "main": "index.js",
-  "scripts": {
-    "lint": "eslint . --fix",
-    "format": "biome format . --fix"
-  },
   "devDependencies": {
     "@biomejs/biome": "^1.8.3",
     "@yungezeit/eslint-base": "^0.0.3",
